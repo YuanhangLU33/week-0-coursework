@@ -41,7 +41,7 @@
 ![](https://drive.google.com/drive/u/0/folders/1kaInZHshOZHyOJ7Jt6V0yEUrad6OzrfV)
 
 
-### code
+### Code
 
 ```
 import requests
@@ -523,7 +523,7 @@ plt.title('Per capita spending of overnight visitors except for Total and mainla
 plt.legend(loc=1,prop={'size':11})
 ```
 
-### data
+### Data
 
 [visitors.csv](https://github.com/data-projects-archive/201804-HK-Tourism/blob/master/Final%20Group%20Project/visitors.csv)
 [consumption1.csv](https://github.com/data-projects-archive/201804-HK-Tourism/blob/master/Final%20Group%20Project/consumption%201.csv)
