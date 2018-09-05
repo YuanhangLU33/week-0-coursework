@@ -462,6 +462,7 @@ plt.legend(loc=1,prop={'size':13})
 plt.title('Destination consumption expenditure of same-day in-town visitors except for Total and mainland China ($)')
 
 ```
+```
 df=pd.read_csv('consumption 2.csv')
 
 def parse_datetime(x):
@@ -534,3 +535,19 @@ plt.legend(loc=1,prop={'size':11})
 [transport_sea.csv](https://github.com/data-projects-archive/201804-HK-Tourism/blob/master/Final%20Group%20Project/transport_sea.csv)
 [Long_haul_market.csv](https://github.com/data-projects-archive/201804-HK-Tourism/blob/master/Final%20Group%20Project/Long_haul_market.csv)
 [Short_haul_market.csv](https://github.com/data-projects-archive/201804-HK-Tourism/blob/master/Final%20Group%20Project/Short_haul_market.csv)
+
+### Commit history
+
+- The total number of commit: 49 times.
+- Commit time point:
+1. Commits on Mar 2, 2018
+2. Commits on Mar 4, 2018
+3. Commits on Mar 9, 2018
+4. Commits on Mar 15, 2018
+5. Commits on Apr 5, 2018
+6. Commits on Apr 9, 2018
+7. Commits on Apr 14, 2018
+8. Commits on Apr 29, 2018
+9. Commits on Apr 30, 2018
+10. Commits on May 1, 2018
+11. Commits on May 2, 2018
