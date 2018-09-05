@@ -23,13 +23,13 @@
 > For instance, during the "Umbrella Revolution" in September 2014, there is a sharp drop in the number of visitors coming from the mainland;
 > In September 2017, visitor arrivals further dropped when typhoon no. 10 was issued in Hong Kong due to the typhoon Hato arrived, when delayed flights and heavy flooding in Hong Kong lasted for more than a month. The number of visitors from the mainland was influenced by the flu season in August in the same year.
 
-![](https://drive.google.com/drive/u/0/folders/1bZNTxKjD8Rt6BGNnBYzKJVNieXjAl-av)
+![Figure-part1](https://drive.google.com/drive/u/0/folders/1bZNTxKjD8Rt6BGNnBYzKJVNieXjAl-av)
 
 > II. Characteristics of Hong Kong visitors by the mode of transport:
 > 1) Most visitors arrive Hong Kong by air, except that most visitors from the mainland China arrive Hong Kong by land; 
 > 2) For long haul markets, most visitors arrive Hong Kong by air and traveling by sea was their last option. However, in short haul markets, the number of visitors arrived by sea exceeded the number of visitors by land after 2011 and has continued to rise. Still, coming to Hong Kong by air has always been the first choice.
 
-![](https://drive.google.com/drive/u/0/folders/1M07KgoB_hx8rl4s2aQUm7ArW1QPgg3MY)
+![Figure-part2](https://drive.google.com/drive/u/0/folders/1M07KgoB_hx8rl4s2aQUm7ArW1QPgg3MY)
 
 > III. The consumption expenditure patterns of Hong Kong visitors:
 > 1) The Mainland China made up of the largest part in same-day consumption. And it has a big gap with other countries;
@@ -38,7 +38,7 @@
 > 4) Macao is the second highest in per capita same-day consumption while it is the smallest in per capita overnight consumption;
 > 5) Apart from the Mainland China, the total consumption of overnight visitors from South and Southeast Asia have been higher than visitors from Europe and America.
 
-![](https://drive.google.com/drive/u/0/folders/1kaInZHshOZHyOJ7Jt6V0yEUrad6OzrfV)
+![Figure-part3](https://drive.google.com/drive/u/0/folders/1kaInZHshOZHyOJ7Jt6V0yEUrad6OzrfV)
 
 
 ### Code
